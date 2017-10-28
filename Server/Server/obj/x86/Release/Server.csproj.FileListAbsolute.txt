@@ -1,0 +1,6 @@
+J:\C#\winForm\12 Game1.0\Server\Server\bin\x86\Release\Server.exe.config
+J:\C#\winForm\12 Game1.0\Server\Server\bin\x86\Release\Server.exe
+J:\C#\winForm\12 Game1.0\Server\Server\bin\x86\Release\Server.pdb
+J:\C#\winForm\12 Game1.0\Server\Server\obj\x86\Release\Server.csprojResolveAssemblyReference.cache
+J:\C#\winForm\12 Game1.0\Server\Server\obj\x86\Release\Server.exe
+J:\C#\winForm\12 Game1.0\Server\Server\obj\x86\Release\Server.pdb

@@ -1,0 +1,30 @@
+J:\C#\winForm\10 Server\Server\Server\bin\Debug\Server.exe.config
+J:\C#\winForm\10 Server\Server\Server\bin\Debug\Server.exe
+J:\C#\winForm\10 Server\Server\Server\bin\Debug\Server.pdb
+J:\C#\winForm\10 Server\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+J:\C#\winForm\10 Server\Server\Server\obj\Debug\Server.exe
+J:\C#\winForm\10 Server\Server\Server\obj\Debug\Server.pdb
+J:\C#\winForm\10 Basic Server\Server\bin\Debug\Server.exe.config
+J:\C#\winForm\10 Basic Server\Server\obj\Debug\Server.exe
+J:\C#\winForm\10 Basic Server\Server\obj\Debug\Server.pdb
+J:\C#\winForm\10 Basic Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+J:\C#\winForm\10 Basic Server\Server\bin\Debug\Server.exe
+J:\C#\winForm\10 Basic Server\Server\bin\Debug\Server.pdb
+J:\C#\winForm\10 C&SBetter\Server\Server\bin\Debug\Server.exe.config
+J:\C#\winForm\10 C&SBetter\Server\Server\obj\Debug\Server.exe
+J:\C#\winForm\10 C&SBetter\Server\Server\obj\Debug\Server.pdb
+J:\C#\winForm\10 C&SBetter\Server\Server\bin\Debug\Server.exe
+J:\C#\winForm\10 C&SBetter\Server\Server\bin\Debug\Server.pdb
+J:\C#\winForm\10 C&SBetter\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+J:\C#\winForm\11 C&S OK\Server\Server\bin\Debug\Server.exe.config
+J:\C#\winForm\11 C&S OK\Server\Server\obj\Debug\Server.exe
+J:\C#\winForm\11 C&S OK\Server\Server\obj\Debug\Server.pdb
+J:\C#\winForm\11 C&S OK\Server\Server\bin\Debug\Server.exe
+J:\C#\winForm\11 C&S OK\Server\Server\bin\Debug\Server.pdb
+J:\C#\winForm\11 C&S OK\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+J:\C#\winForm\12 Game1.0\Server\Server\bin\Debug\Server.exe.config
+J:\C#\winForm\12 Game1.0\Server\Server\obj\Debug\Server.exe
+J:\C#\winForm\12 Game1.0\Server\Server\obj\Debug\Server.pdb
+J:\C#\winForm\12 Game1.0\Server\Server\bin\Debug\Server.exe
+J:\C#\winForm\12 Game1.0\Server\Server\bin\Debug\Server.pdb
+J:\C#\winForm\12 Game1.0\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
