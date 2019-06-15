@@ -1,6 +1,0 @@
-J:\C#\winForm\12 Game1.0\Server\Server\bin\Release\Server.exe.config
-J:\C#\winForm\12 Game1.0\Server\Server\bin\Release\Server.exe
-J:\C#\winForm\12 Game1.0\Server\Server\bin\Release\Server.pdb
-J:\C#\winForm\12 Game1.0\Server\Server\obj\Release\Server.exe
-J:\C#\winForm\12 Game1.0\Server\Server\obj\Release\Server.pdb
-J:\C#\winForm\12 Game1.0\Server\Server\obj\Release\Server.csprojResolveAssemblyReference.cache
